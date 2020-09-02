@@ -1,6 +1,8 @@
 # Serverless Stack Resources SST Sample
 
-This project uses [SST](https://github.com/serverless-stack/serverless-stack) to create the resources in the [Serverless Stack guide](https://serverless-stack.com). It was bootstrapped using [Create Serverless Stack](https://github.com/serverless-stack/serverless-stack/tree/master/packages/create-serverless-stack).
+This project uses [SST](https://github.com/serverless-stack/serverless-stack) to create the resources in the [Serverless Stack guide](https://serverless-stack.com).
+
+It uses CDK instead of CloudFormation YAML in our note taking app — https://github.com/AnomalyInnovations/serverless-stack-demo-api
 
 Start by installing the dependencies.
 
